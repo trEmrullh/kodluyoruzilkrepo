@@ -12,7 +12,7 @@ projeyi cloneladıktan sonra Visual Studio Code praogramında açınız.
 
 Linux için ;
 
-```cd kodluyoruzilkrepo code .;```
+```cd kodluyoruzilkrepo code .```
 
 
 # Contributing 
@@ -23,5 +23,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Proje Resmi
 
-![Lorem Picsum](https://picsum.photos/200/300)
+![image](https://user-images.githubusercontent.com/99501568/197360902-4c4e9d43-c280-4fbb-a022-c758991f7372.png)
+
 
